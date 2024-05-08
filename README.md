@@ -19,7 +19,7 @@ $$
 
 ## Real Images
 
-The following real images are included:
+The following real images were provided by the [Centre for Computational Geostatistics (CCG)](https://www.ccgalberta.com/):
 
 <p align="center">
     <img src="fig02.png" alt="Figure 2" width="500"/>
