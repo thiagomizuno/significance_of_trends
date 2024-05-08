@@ -1,6 +1,6 @@
 # Evaluation of the Significance of Trends
 
-This repository contains the text files of an example of synthetic data and five real images presented in the article titled "Evaluation of the Significance of Spatial Trends for Geostatistical Simulation."
+This repository contains the files of an example of synthetic data and five real images presented in the article titled "Evaluation of the Significance of Spatial Trends for Geostatistical Simulation."
 
 ## Synthetic Data
 
