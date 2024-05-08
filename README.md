@@ -8,7 +8,14 @@ This repository contains the text files of an example of synthetic data and five
     <img src="fig01.png" alt="Figure 1" width="500"/>
 </p>
 
-Figure 1: The synthetic data consists of 50% variance originating from the trend and 50% from the simulation. File: [Synthetic_data.dat](Synthetic_data.dat).
+Figure 1: The synthetic data $Z(u)$ in the file consists of 50% variance originating from the trend $m(u)$ and 50% from the simulation $R(u)$. File: [Synthetic_data.dat](Synthetic_data.dat).
+
+For cases with contributions of variances with different weights, the equation used is:
+
+$$
+Z(u) = \sqrt{F} \cdot m(u) + \sqrt{(1 - F)} \cdot R(u) \cdot F + (1 - F) \cdot R(u)
+$$
+
 
 ## Real Images
 
