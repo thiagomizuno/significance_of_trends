@@ -8,7 +8,7 @@ This repository contains the text files of an example of synthetic data and five
     <img src="fig01.png" alt="Figure 1" width="500"/>
 </p>
 
-Figure 1: The synthetic data consists of 50% variance originating from the trend and 50% from the simulation. You can find the synthetic data file [here](Synthetic_data.dat).
+Figure 1: The synthetic data consists of 50% variance originating from the trend and 50% from the simulation. File: [Synthetic_data.dat](Synthetic_data.dat).
 
 ## Real Images
 
