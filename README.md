@@ -2,11 +2,11 @@
 
 This repository contains the text files of an example of synthetic data and five real images presented in the article titled "Evaluation of the Significance of Spatial Trends for Geostatistical Simulation."
 
-The synthetic data consists of 50% variance originating from the trend and 50% from the simulation.
-
 ## Synthetic Data
 
 - ![Figure 1](fig01.png)
+
+The synthetic data consists of 50% variance originating from the trend and 50% from the simulation.
 
 ## Real Images
 
