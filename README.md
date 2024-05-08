@@ -18,7 +18,7 @@ The following real images are included:
     <img src="fig02.png" alt="Figure 2" width="500"/>
 </p>
 
-Figure 2: Image A31
+Figure 2: Image A31, file: [Exhaustive_A31.out](Exhaustive_A31.out).
 
 ---
 
@@ -26,7 +26,8 @@ Figure 2: Image A31
     <img src="fig03.png" alt="Figure 3" width="500"/>
 </p>
 
-Figure 3: Image D3
+Figure 3: Image D3, file: [Exhaustive_D3.out](Exhaustive_D3.out).
+
 
 ---
 
@@ -34,7 +35,8 @@ Figure 3: Image D3
     <img src="fig04.png" alt="Figure 4" width="500"/>
 </p>
 
-Figure 4: Image A18
+Figure 4: Image A18, file: [Exhaustive_A18.out](Exhaustive_A18.out).
+
 
 ---
 
@@ -42,7 +44,8 @@ Figure 4: Image A18
     <img src="fig05.png" alt="Figure 5" width="500"/>
 </p>
 
-Figure 5: Image A32
+Figure 5: Image A32, file: [Exhaustive_A32.out](Exhaustive_A32.out).
+
 
 ---
 
@@ -50,7 +53,8 @@ Figure 5: Image A32
     <img src="fig06.png" alt="Figure 6" width="500"/>
 </p>
 
-Figure 6: Image B16
+Figure 6: Image B16, file: [Exhaustive_B16.out](Exhaustive_B16.out).
+
 ## Contact
 
 If you have any questions or suggestions, please contact Thiago A Mizuno at thiagomizuno@gmail.com.
