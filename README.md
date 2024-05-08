@@ -11,11 +11,11 @@ The synthetic data consists of 50% variance originating from the trend and 50% f
 ## Real Images
 
 The following real images are included:
-- ![Figure 2](fig02.png)
-- ![Figure 3](fig03.png)
-- ![Figure 4](fig04.png)
-- ![Figure 5](fig05.png)
-- ![Figure 6](fig06.png)
+- <img src="fig02.png" alt="Figure 2" width="200"/>
+- <img src="fig03.png" alt="Figure 3" width="200"/>
+- <img src="fig04.png" alt="Figure 4" width="200"/>
+- <img src="fig05.png" alt="Figure 5" width="200"/>
+- <img src="fig06.png" alt="Figure 6" width="200"/>
 
 ## Contact
 
