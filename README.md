@@ -19,7 +19,7 @@ $$
 
 ## Real Images
 
-The following real images were provided by the [Centre for Computational Geostatistics (CCG)](https://www.ccgalberta.com/):
+The following real images were provided by the [Centre for Computational Geostatistics (CCG)](https://www.ccgalberta.com/),  Mokdad, Binakaj e Boisvert (2022) [1].:
 
 <p align="center">
     <img src="fig02.png" alt="Figure 2" width="500"/>
@@ -65,3 +65,6 @@ Figure 6: Image B16, file: [Exhaustive_B16.out](Exhaustive_B16.out).
 ## Contact
 
 If you have any questions or suggestions, please contact Thiago A Mizuno at thiagomizuno@gmail.com.
+
+## References
+[1]: Mokdad, K., Binakaj, D., & Boisvert, J. (2022). Data validation project: Validation of 114 spatial 2d datasets (non‐ synthetic data). CCG Paper 110, Centre for Computational Geostatistics, University of Alberta, Canada, 24.
