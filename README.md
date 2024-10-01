@@ -1,6 +1,6 @@
 # Evaluation of the Significance of Trends
 
-This repository contains the files of an example of synthetic data and five real images presented in the article titled "Evaluation of the Significance of Spatial Trends for Geostatistical Simulation."
+This repository contains the files of an example of synthetic data and five real images presented in the article titled "Evaluation of the Significance of Spatial Trends for Geostatistical Simulation.", Alduini Mizuno, T., Deutsch, C.V.(2024)[1].
 
 ## Synthetic Data
 
@@ -19,7 +19,7 @@ $$
 
 ## Real Images
 
-The following real images were provided by the [Centre for Computational Geostatistics (CCG)](https://www.ccgalberta.com/),  Mokdad, Binakaj e Boisvert (2022) [1].:
+The following real images were provided by the [Centre for Computational Geostatistics (CCG)](https://www.ccgalberta.com/),  Mokdad, Binakaj e Boisvert (2022) [2].:
 
 <p align="center">
     <img src="fig02.png" alt="Figure 2" width="500"/>
@@ -67,4 +67,8 @@ Figure 6: Image B16, file: [Exhaustive_B16.out](Exhaustive_B16.out).
 If you have any questions or suggestions, please contact Thiago A Mizuno at thiagomizuno@gmail.com.
 
 ## References
-[1]: Mokdad, K., Binakaj, D., & Boisvert, J. (2022). Data validation project: Validation of 114 spatial 2d datasets (non‐ synthetic data). CCG Paper 110, Centre for Computational Geostatistics, University of Alberta, Canada, 24.
+[1]: Alduini Mizuno, T., Deutsch, C.V. Evaluation of the significance of spatial trends for geostatistical simulation. Stoch Environ Res Risk Assess (2024). [https://doi.org/10.1007/s00477-024-02828-7](https://doi.org/10.1007/s00477-024-02828-7/)
+
+[2]: Mokdad, K., Binakaj, D., & Boisvert, J. (2022). Data validation project: Validation of 114 spatial 2d datasets (non‐ synthetic data). CCG Paper 110, Centre for Computational Geostatistics, University of Alberta, Canada, 24.
+
+
